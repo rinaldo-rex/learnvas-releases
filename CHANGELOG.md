@@ -2,6 +2,11 @@
 
 ## [Unreleased]
 
+## [26.10.3] - 2026-10-21
+
+- Install, update, disable and remove trusted provider extensions from npm or git in Settings → Extensions.
+- Updated the built-in Pi SDK to 1.3.0.
+
 ## [26.10.0] - 2026-10-20
 
 - First public release of Learnvas: branching AI conversations on an infinite canvas.

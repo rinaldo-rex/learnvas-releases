@@ -1,11 +1,11 @@
 {
-  "version": "26.10.0",
-  "sourceCommit": "12445e9b65ba48b631ca23c3a17bf323b4be1d03",
-  "preparedAt": "2026-10-20T15:52:32.249Z",
+  "version": "26.10.3",
+  "sourceCommit": "dd2dfcfd42422bd29d4bd2f7472b7ecb60830e7a",
+  "preparedAt": "2026-10-21T05:18:29.653Z",
   "files": {
-    "Learnvas-26.10.0-x86_64.AppImage": "f354b5359ee74ff418a6766377c46b1e5a9c357c3b3dfc810b6303aba820b2be",
-    "Learnvas-26.10.0-x86_64.AppImage.sha256": "ac23a15077c352535caea50be36a374c715ed211e9d7ab80626d889ad0e5bc07",
-    "Learnvas-26.10.0-x86_64.AppImage.build.json": "a33be3ce3b9304e3c35d5988411315887b47eb6a793c584fa9ea08f101481a95",
-    "learnvas-update.json": "d83ef71c4fbab4465e0ec27ef128a9c51ef5127e2271bbc215ddb349fc93cadf"
+    "Learnvas-26.10.3-x86_64.AppImage": "ca606b11dfb55536e9558d5865669647a9e5e032d5d6e31df20adcd4abe5dacb",
+    "Learnvas-26.10.3-x86_64.AppImage.sha256": "8c51da7fd2bfe7a349290e710006741a54ef63f8bf7105bd96bc0f46ed31a471",
+    "Learnvas-26.10.3-x86_64.AppImage.build.json": "97dcbd5a2b9fb726328271bb0bd4e9b3b556613e336634acb1d8d095138f1a3e",
+    "learnvas-update.json": "d75f645301359779c520b6c4deb886dfc43cd7f5090cd1f92bd5cea573a19d04"
   }
 }
